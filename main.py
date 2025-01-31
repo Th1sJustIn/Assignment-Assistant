@@ -5,7 +5,7 @@ import json
 import Format_Message
 import send_Message
 
-notion_token = 'secret_WjqGmvQEH30VkR5YVe3Ug2rqN9rt8VSjwA6imPcAGyo'
+notion_token = '' ## place notion token here
 notion_page_id = "5ca75bab843b4449a25974ffe7b29c96"
 notion_database_id = "772566dcd28540e59884610806eea096"
 justin_database_id = "b1f43304872747008fe2cd3325fdb967"
