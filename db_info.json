@@ -1,0 +1,107 @@
+{
+ "object": "database",
+ "id": "b1f43304-8727-4700-8fe2-cd3325fdb967",
+ "cover": null,
+ "icon": {
+  "type": "emoji",
+  "emoji": "\ud83d\udcd6"
+ },
+ "created_time": "2024-01-08T22:48:00.000Z",
+ "created_by": {
+  "object": "user",
+  "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+ },
+ "last_edited_by": {
+  "object": "user",
+  "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+ },
+ "last_edited_time": "2024-02-14T17:28:00.000Z",
+ "title": [
+  {
+   "type": "text",
+   "text": {
+    "content": "Semester Assignments",
+    "link": null
+   },
+   "annotations": {
+    "bold": false,
+    "italic": false,
+    "strikethrough": false,
+    "underline": false,
+    "code": false,
+    "color": "default"
+   },
+   "plain_text": "Semester Assignments",
+   "href": null
+  }
+ ],
+ "description": [],
+ "is_inline": false,
+ "properties": {
+  "Status": {
+   "id": "XfEt",
+   "name": "Status",
+   "type": "checkbox",
+   "checkbox": {}
+  },
+  "Class": {
+   "id": "ixc%3A",
+   "name": "Class",
+   "type": "select",
+   "select": {
+    "options": [
+     {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown",
+      "description": null
+     },
+     {
+      "id": "s?S`",
+      "name": "Data-Structures",
+      "color": "blue",
+      "description": null
+     },
+     {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green",
+      "description": null
+     },
+     {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange",
+      "description": null
+     },
+     {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple",
+      "description": null
+     }
+    ]
+   }
+  },
+  "Due Date": {
+   "id": "p%5Eis",
+   "name": "Due Date",
+   "type": "date",
+   "date": {}
+  },
+  "Assignment": {
+   "id": "title",
+   "name": "Assignment",
+   "type": "title",
+   "title": {}
+  }
+ },
+ "parent": {
+  "type": "block_id",
+  "block_id": "57fa2436-d753-4eb3-90a6-b5fe097e74cf"
+ },
+ "url": "https://www.notion.so/b1f43304872747008fe2cd3325fdb967",
+ "public_url": "https://mint-lillipilli-8ac.notion.site/b1f43304872747008fe2cd3325fdb967",
+ "archived": false,
+ "request_id": "06dd0471-2e9b-4ae0-86db-ab917cd93731"
+}

@@ -1,0 +1,5974 @@
+{
+ "object": "list",
+ "results": [
+  {
+   "object": "page",
+   "id": "6ac3bf05-5fda-4269-871d-70b59e02dae7",
+   "created_time": "2024-02-14T17:24:00.000Z",
+   "last_edited_time": "2024-02-14T17:25:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "s?S`",
+      "name": "Data-Structures",
+      "color": "blue"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-16",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Midterm",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Midterm",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Midterm-6ac3bf055fda4269871d70b59e02dae7",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Midterm-6ac3bf055fda4269871d70b59e02dae7"
+  },
+  {
+   "object": "page",
+   "id": "c3a2dc73-bf98-43d1-a8df-296fcce0a19e",
+   "created_time": "2024-01-17T19:17:00.000Z",
+   "last_edited_time": "2024-01-26T00:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "s?S`",
+      "name": "Data-Structures",
+      "color": "blue"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-24",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 1 ",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 1 ",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-1-c3a2dc73bf9843d1a8df296fcce0a19e",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-1-c3a2dc73bf9843d1a8df296fcce0a19e"
+  },
+  {
+   "object": "page",
+   "id": "ceec550e-88ed-4a00-b2dc-bfe3e6e9ac59",
+   "created_time": "2024-01-16T23:13:00.000Z",
+   "last_edited_time": "2024-01-16T23:16:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-29",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Final Project",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Final Project",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Final-Project-ceec550e88ed4a00b2dcbfe3e6e9ac59",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Final-Project-ceec550e88ed4a00b2dcbfe3e6e9ac59"
+  },
+  {
+   "object": "page",
+   "id": "4d148633-d8c1-4553-b75d-137aa2b8ed0c",
+   "created_time": "2024-01-16T23:13:00.000Z",
+   "last_edited_time": "2024-01-16T23:16:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-25",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-6-4d148633d8c14553b75d137aa2b8ed0c",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-6-4d148633d8c14553b75d137aa2b8ed0c"
+  },
+  {
+   "object": "page",
+   "id": "eff71bfb-c88c-48b6-9274-cab2c4edd800",
+   "created_time": "2024-01-16T23:13:00.000Z",
+   "last_edited_time": "2024-01-16T23:16:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-18",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-5-eff71bfbc88c48b69274cab2c4edd800",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-5-eff71bfbc88c48b69274cab2c4edd800"
+  },
+  {
+   "object": "page",
+   "id": "34bbe150-a244-41fa-86b4-ac029bf0943b",
+   "created_time": "2024-01-16T23:13:00.000Z",
+   "last_edited_time": "2024-01-16T23:16:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-11",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Test 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Test 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Test-4-34bbe150a24441fa86b4ac029bf0943b",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Test-4-34bbe150a24441fa86b4ac029bf0943b"
+  },
+  {
+   "object": "page",
+   "id": "b431a316-501a-4c53-bfcc-46a71b54c188",
+   "created_time": "2024-01-16T23:13:00.000Z",
+   "last_edited_time": "2024-01-16T23:15:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-04",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-4-b431a316501a4c53bfcc46a71b54c188",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-4-b431a316501a4c53bfcc46a71b54c188"
+  },
+  {
+   "object": "page",
+   "id": "fdab2f5d-cc7f-4593-971c-7690ae89d2f1",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-01-16T23:15:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-28",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-2-fdab2f5dcc7f4593971c7690ae89d2f1",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-2-fdab2f5dcc7f4593971c7690ae89d2f1"
+  },
+  {
+   "object": "page",
+   "id": "024af2dd-8dec-4158-bb87-b99e7070f833",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-01-16T23:15:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-21",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-3-024af2dd8dec4158bb87b99e7070f833",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-3-024af2dd8dec4158bb87b99e7070f833"
+  },
+  {
+   "object": "page",
+   "id": "4afd95fa-db6d-4fbb-8673-5e5f71e1c5d7",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-01-16T23:15:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-14",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-2-4afd95fadb6d4fbb86735e5f71e1c5d7",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-2-4afd95fadb6d4fbb86735e5f71e1c5d7"
+  },
+  {
+   "object": "page",
+   "id": "ab18cb29-1633-42e0-ac46-15b506a38373",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-01-16T23:15:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-29",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Test 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Test 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Test-3-ab18cb29163342e0ac4615b506a38373",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Test-3-ab18cb29163342e0ac4615b506a38373"
+  },
+  {
+   "object": "page",
+   "id": "7a60362a-96d6-4168-94a6-c9d1b3e491fb",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-01-16T23:14:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-22",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-1-7a60362a96d6416894a6c9d1b3e491fb",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-1-7a60362a96d6416894a6c9d1b3e491fb"
+  },
+  {
+   "object": "page",
+   "id": "1ea2a98a-ba62-4d2a-b9d9-da9eb92acb08",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-02-09T00:47:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-15",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Test 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Test 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Test-2-1ea2a98aba624d2ab9d9da9eb92acb08",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Test-2-1ea2a98aba624d2ab9d9da9eb92acb08"
+  },
+  {
+   "object": "page",
+   "id": "91422403-8c56-4f90-9831-213d8acaf75c",
+   "created_time": "2024-01-16T23:12:00.000Z",
+   "last_edited_time": "2024-02-04T03:41:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-01",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Test 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Test 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Test-1-914224038c564f909831213d8acaf75c",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Test-1-914224038c564f909831213d8acaf75c"
+  },
+  {
+   "object": "page",
+   "id": "3b51c3c0-df17-4280-aef0-bccaeeae677e",
+   "created_time": "2024-01-16T23:10:00.000Z",
+   "last_edited_time": "2024-01-20T22:51:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "^IDt",
+      "name": "Org&Arch",
+      "color": "orange"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-1-3b51c3c0df174280aef0bccaeeae677e",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-1-3b51c3c0df174280aef0bccaeeae677e"
+  },
+  {
+   "object": "page",
+   "id": "504376a7-5d8e-4810-9451-a1967604f5cc",
+   "created_time": "2024-01-09T00:05:00.000Z",
+   "last_edited_time": "2024-01-09T00:11:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-21",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-6-504376a75d8e48109451a1967604f5cc",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-6-504376a75d8e48109451a1967604f5cc"
+  },
+  {
+   "object": "page",
+   "id": "f903b3f9-605e-4e6f-8d32-7882786ed787",
+   "created_time": "2024-01-09T00:05:00.000Z",
+   "last_edited_time": "2024-01-09T00:11:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-21",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-5-f903b3f9605e4e6f8d327882786ed787",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-5-f903b3f9605e4e6f8d327882786ed787"
+  },
+  {
+   "object": "page",
+   "id": "71309481-77b4-430c-9214-b643694bc6c5",
+   "created_time": "2024-01-09T00:05:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-14",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-4-7130948177b4430c9214b643694bc6c5",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-4-7130948177b4430c9214b643694bc6c5"
+  },
+  {
+   "object": "page",
+   "id": "a0725e00-1ce1-4efd-a626-f7e64ad5a7fb",
+   "created_time": "2024-01-09T00:05:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-14",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-3-a0725e001ce14efda626f7e64ad5a7fb",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-3-a0725e001ce14efda626f7e64ad5a7fb"
+  },
+  {
+   "object": "page",
+   "id": "496ce8ff-e9ec-401b-98f6-e3e2f7c8ee82",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-07",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-2-496ce8ffe9ec401b98f6e3e2f7c8ee82",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-2-496ce8ffe9ec401b98f6e3e2f7c8ee82"
+  },
+  {
+   "object": "page",
+   "id": "4d0e1ca3-55df-4e21-a3aa-9169cbf7ad1a",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-07",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 5.1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 5.1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-5-1-4d0e1ca355df4e21a3aa9169cbf7ad1a",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-5-1-4d0e1ca355df4e21a3aa9169cbf7ad1a"
+  },
+  {
+   "object": "page",
+   "id": "d28f3bb2-4038-41c2-b7df-df2374f83f40",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-31",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 4.7",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 4.7",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-4-7-d28f3bb2403841c2b7dfdf2374f83f40",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-4-7-d28f3bb2403841c2b7dfdf2374f83f40"
+  },
+  {
+   "object": "page",
+   "id": "65a097d2-a0fd-4489-9847-017f52ccbfb1",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-31",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 4.5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 4.5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-4-5-65a097d2a0fd44899847017f52ccbfb1",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-4-5-65a097d2a0fd44899847017f52ccbfb1"
+  },
+  {
+   "object": "page",
+   "id": "c6cb5870-4d44-4df2-898f-a6c4c76b57e0",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-24",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 4.4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 4.4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-4-4-c6cb58704d444df2898fa6c4c76b57e0",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-4-4-c6cb58704d444df2898fa6c4c76b57e0"
+  },
+  {
+   "object": "page",
+   "id": "1b52810b-d112-4784-8f09-0654aa93dac2",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:10:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-24",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 4.3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 4.3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-4-3-1b52810bd11247848f090654aa93dac2",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-4-3-1b52810bd11247848f090654aa93dac2"
+  },
+  {
+   "object": "page",
+   "id": "8cfdd71e-b3d9-4841-8771-ea20c70629b4",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-10",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 4.2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 4.2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-4-2-8cfdd71eb3d948418771ea20c70629b4",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-4-2-8cfdd71eb3d948418771ea20c70629b4"
+  },
+  {
+   "object": "page",
+   "id": "2ab422bd-15e6-4330-9143-b942743d1806",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-10",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.10",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.10",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-10-2ab422bd15e643309143b942743d1806",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-10-2ab422bd15e643309143b942743d1806"
+  },
+  {
+   "object": "page",
+   "id": "18038c82-0b21-4337-bbd6-a5866f189cf0",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-03",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.9",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.9",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-9-18038c820b214337bbd6a5866f189cf0",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-9-18038c820b214337bbd6a5866f189cf0"
+  },
+  {
+   "object": "page",
+   "id": "44750052-e36a-44a0-af3b-a4b2627ed28a",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-03",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.8",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.8",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-8-44750052e36a44a0af3ba4b2627ed28a",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-8-44750052e36a44a0af3ba4b2627ed28a"
+  },
+  {
+   "object": "page",
+   "id": "99ec123e-ba7c-4b2a-89a1-a03c7d4a5760",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:08:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-25",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.7",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.7",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-7-99ec123eba7c4b2a89a1a03c7d4a5760",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-7-99ec123eba7c4b2a89a1a03c7d4a5760"
+  },
+  {
+   "object": "page",
+   "id": "02013195-0e63-463c-a3a1-8e2ddbb28315",
+   "created_time": "2024-01-09T00:02:00.000Z",
+   "last_edited_time": "2024-01-09T00:08:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-25",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-6-020131950e63463ca3a18e2ddbb28315",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-6-020131950e63463ca3a18e2ddbb28315"
+  },
+  {
+   "object": "page",
+   "id": "230f6f22-f391-4cd9-8e9b-8b95fc7a3414",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-09T00:08:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-18",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-5-230f6f22f3914cd98e9b8b95fc7a3414",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-5-230f6f22f3914cd98e9b8b95fc7a3414"
+  },
+  {
+   "object": "page",
+   "id": "c74d496f-9190-497b-a648-e972a8b89fc9",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-09T00:08:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-18",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-4-c74d496f9190497ba648e972a8b89fc9",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-4-c74d496f9190497ba648e972a8b89fc9"
+  },
+  {
+   "object": "page",
+   "id": "9b81df95-83ac-4835-8256-4d40ba98c531",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-02-14T17:24:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-11",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-3-9b81df9583ac483582564d40ba98c531",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-3-9b81df9583ac483582564d40ba98c531"
+  },
+  {
+   "object": "page",
+   "id": "e95c792d-da68-4d14-a508-babb47174de9",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-02-14T17:24:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-11",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-2-e95c792dda684d14a508babb47174de9",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-2-e95c792dda684d14a508babb47174de9"
+  },
+  {
+   "object": "page",
+   "id": "662a32cf-998e-42fe-88ef-3f973cc77c41",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-02-05T21:35:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-04",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 3.1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 3.1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-3-1-662a32cf998e42fe88ef3f973cc77c41",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-3-1-662a32cf998e42fe88ef3f973cc77c41"
+  },
+  {
+   "object": "page",
+   "id": "2a812426-546a-4791-a0a9-d7f9cbddf5bb",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-02-05T21:35:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-04",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.8",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.8",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-8-2a812426546a4791a0a9d7f9cbddf5bb",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-8-2a812426546a4791a0a9d7f9cbddf5bb"
+  },
+  {
+   "object": "page",
+   "id": "7b8ca054-24ac-450e-85bc-a5d31a6891d2",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-29T17:59:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-28",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.7",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.7",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-7-7b8ca05424ac450e85bca5d31a6891d2",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-7-7b8ca05424ac450e85bca5d31a6891d2"
+  },
+  {
+   "object": "page",
+   "id": "a5f2989e-0519-4d89-be4a-fd0df8a59d4d",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-29T17:59:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-28",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-6-a5f2989e05194d89be4afd0df8a59d4d",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-6-a5f2989e05194d89be4afd0df8a59d4d"
+  },
+  {
+   "object": "page",
+   "id": "5dcca053-aaee-4ad3-b00a-15fa6d670761",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-29T17:59:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-28",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-5-5dcca053aaee4ad3b00a15fa6d670761",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-5-5dcca053aaee4ad3b00a15fa6d670761"
+  },
+  {
+   "object": "page",
+   "id": "1d4e2ba2-40dc-4b29-bfd9-61f275964195",
+   "created_time": "2024-01-09T00:01:00.000Z",
+   "last_edited_time": "2024-01-22T18:34:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-21",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-4-1d4e2ba240dc4b29bfd961f275964195",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-4-1d4e2ba240dc4b29bfd961f275964195"
+  },
+  {
+   "object": "page",
+   "id": "0dd95d54-3bfd-4f6b-bb92-05d29b3979fb",
+   "created_time": "2024-01-09T00:00:00.000Z",
+   "last_edited_time": "2024-01-22T18:34:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "KlHD",
+      "name": "Calculus",
+      "color": "purple"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-21",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Section 2.3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Section 2.3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Section-2-3-0dd95d543bfd4f6bbb9205d29b3979fb",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Section-2-3-0dd95d543bfd4f6bbb9205d29b3979fb"
+  },
+  {
+   "object": "page",
+   "id": "bc1bae8a-88a9-4d7a-b65b-a6af8f6d4abc",
+   "created_time": "2024-01-08T23:55:00.000Z",
+   "last_edited_time": "2024-01-08T23:55:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-06",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-5-bc1bae8a88a94d7ab65ba6af8f6d4abc",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-5-bc1bae8a88a94d7ab65ba6af8f6d4abc"
+  },
+  {
+   "object": "page",
+   "id": "2e81e6a2-bf7f-47b0-bb6b-737dd1e4dc08",
+   "created_time": "2024-01-08T23:54:00.000Z",
+   "last_edited_time": "2024-01-08T23:54:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-23",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-4-2e81e6a2bf7f47b0bb6b737dd1e4dc08",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-4-2e81e6a2bf7f47b0bb6b737dd1e4dc08"
+  },
+  {
+   "object": "page",
+   "id": "f5234a29-fb96-41db-bd0b-4a5c273aa3fe",
+   "created_time": "2024-01-08T23:54:00.000Z",
+   "last_edited_time": "2024-01-08T23:54:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-24",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-3-f5234a29fb9641dbbd0b4a5c273aa3fe",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-3-f5234a29fb9641dbbd0b4a5c273aa3fe"
+  },
+  {
+   "object": "page",
+   "id": "503e9874-0a2a-4d2f-b027-c103eda1bef0",
+   "created_time": "2024-01-08T23:54:00.000Z",
+   "last_edited_time": "2024-02-04T04:00:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-03",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-2-503e98740a2a4d2fb027c103eda1bef0",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-2-503e98740a2a4d2fb027c103eda1bef0"
+  },
+  {
+   "object": "page",
+   "id": "72932160-e678-4029-811d-e4b4f5b48607",
+   "created_time": "2024-01-08T23:52:00.000Z",
+   "last_edited_time": "2024-01-08T23:52:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-06",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M9 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M9 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M9-Discussion-72932160e6784029811de4b4f5b48607",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M9-Discussion-72932160e6784029811de4b4f5b48607"
+  },
+  {
+   "object": "page",
+   "id": "68221009-4a58-47c9-b3e3-54f3ed08b078",
+   "created_time": "2024-01-08T23:52:00.000Z",
+   "last_edited_time": "2024-01-08T23:52:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-30",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M8 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M8 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M8-Discussion-682210094a5847c9b3e354f3ed08b078",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M8-Discussion-682210094a5847c9b3e354f3ed08b078"
+  },
+  {
+   "object": "page",
+   "id": "f043c8d6-b127-4ab7-a93f-14d82d426090",
+   "created_time": "2024-01-08T23:51:00.000Z",
+   "last_edited_time": "2024-01-08T23:51:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-23",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M7 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M7 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M7-Discussion-f043c8d6b1274ab7a93f14d82d426090",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M7-Discussion-f043c8d6b1274ab7a93f14d82d426090"
+  },
+  {
+   "object": "page",
+   "id": "a52d1c41-3770-48b1-b2b1-b85920e7280d",
+   "created_time": "2024-01-08T23:50:00.000Z",
+   "last_edited_time": "2024-01-08T23:51:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-09",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M6 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M6 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M6-Discussion-a52d1c41377048b1b2b1b85920e7280d",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M6-Discussion-a52d1c41377048b1b2b1b85920e7280d"
+  },
+  {
+   "object": "page",
+   "id": "f89856ee-89ba-4316-bc5c-af837f884a21",
+   "created_time": "2024-01-08T23:50:00.000Z",
+   "last_edited_time": "2024-01-08T23:50:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M5 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M5 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M5-Discussion-f89856ee89ba4316bc5caf837f884a21",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M5-Discussion-f89856ee89ba4316bc5caf837f884a21"
+  },
+  {
+   "object": "page",
+   "id": "f2dc63ae-d889-46d0-a4b2-9952ce47407a",
+   "created_time": "2024-01-08T23:49:00.000Z",
+   "last_edited_time": "2024-01-08T23:50:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-24",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M4 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M4 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M4-Discussion-f2dc63aed88946d0a4b29952ce47407a",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M4-Discussion-f2dc63aed88946d0a4b29952ce47407a"
+  },
+  {
+   "object": "page",
+   "id": "788da61d-7ddc-47dc-8555-24739750baec",
+   "created_time": "2024-01-08T23:49:00.000Z",
+   "last_edited_time": "2024-02-09T16:21:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-10",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M3 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M3 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M3-Discussion-788da61d7ddc47dc855524739750baec",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M3-Discussion-788da61d7ddc47dc855524739750baec"
+  },
+  {
+   "object": "page",
+   "id": "895c2398-28bb-466c-b33e-de0ac03b7b00",
+   "created_time": "2024-01-08T23:48:00.000Z",
+   "last_edited_time": "2024-02-04T04:00:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-03",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M2 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M2 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M2-Discussion-895c239828bb466cb33ede0ac03b7b00",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M2-Discussion-895c239828bb466cb33ede0ac03b7b00"
+  },
+  {
+   "object": "page",
+   "id": "9b95751f-8f97-49bb-986b-4ee218a5ceae",
+   "created_time": "2024-01-08T23:48:00.000Z",
+   "last_edited_time": "2024-01-29T17:59:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-27",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-1-9b95751f8f9749bb986b4ee218a5ceae",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-1-9b95751f8f9749bb986b4ee218a5ceae"
+  },
+  {
+   "object": "page",
+   "id": "80e8d9ff-f1aa-4a63-b43c-7db30879e399",
+   "created_time": "2024-01-08T23:47:00.000Z",
+   "last_edited_time": "2024-01-26T05:58:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-27",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M1 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M1 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M1-Discussion-80e8d9fff1aa4a63b43c7db30879e399",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M1-Discussion-80e8d9fff1aa4a63b43c7db30879e399"
+  },
+  {
+   "object": "page",
+   "id": "0c8c0b83-6afd-4c91-b510-f007382e9800",
+   "created_time": "2024-01-08T23:47:00.000Z",
+   "last_edited_time": "2024-01-11T01:45:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "CH]@",
+      "name": "Ethics",
+      "color": "brown"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-13",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M0 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M0 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M0-Discussion-0c8c0b836afd4c91b510f007382e9800",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M0-Discussion-0c8c0b836afd4c91b510f007382e9800"
+  },
+  {
+   "object": "page",
+   "id": "fc9d7d0f-cb8f-4cba-bd91-fbce6943dbfc",
+   "created_time": "2024-01-08T23:35:00.000Z",
+   "last_edited_time": "2024-01-11T03:04:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "s?S`",
+      "name": "Data-Structures",
+      "color": "blue"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-14",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 0",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 0",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-0-fc9d7d0fcb8f4cbabd91fbce6943dbfc",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-0-fc9d7d0fcb8f4cbabd91fbce6943dbfc"
+  },
+  {
+   "object": "page",
+   "id": "e8c0f28d-a562-4347-a17d-a10c7b8e0601",
+   "created_time": "2024-01-08T23:04:00.000Z",
+   "last_edited_time": "2024-01-08T23:07:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-29",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Database Security quiz",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Database Security quiz",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Database-Security-quiz-e8c0f28da5624347a17da10c7b8e0601",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Database-Security-quiz-e8c0f28da5624347a17da10c7b8e0601"
+  },
+  {
+   "object": "page",
+   "id": "24554e9c-438f-47d2-9c91-0e5973a5e002",
+   "created_time": "2024-01-08T23:04:00.000Z",
+   "last_edited_time": "2024-01-08T23:07:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-29",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 8 (Final Project)",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 8 (Final Project)",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-8-Final-Project-24554e9c438f47d29c910e5973a5e002",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-8-Final-Project-24554e9c438f47d29c910e5973a5e002"
+  },
+  {
+   "object": "page",
+   "id": "392d86b2-9ebd-4a31-a656-733de550436c",
+   "created_time": "2024-01-08T23:04:00.000Z",
+   "last_edited_time": "2024-01-08T23:07:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-4-392d86b29ebd4a31a656733de550436c",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-4-392d86b29ebd4a31a656733de550436c"
+  },
+  {
+   "object": "page",
+   "id": "9b91d121-4d78-47bb-b008-49ee6df81b38",
+   "created_time": "2024-01-08T23:04:00.000Z",
+   "last_edited_time": "2024-01-08T23:07:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 7",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 7",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-7-9b91d1214d7847bbb00849ee6df81b38",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-7-9b91d1214d7847bbb00849ee6df81b38"
+  },
+  {
+   "object": "page",
+   "id": "02f33a59-3d75-41f4-a669-ad43192f2aa1",
+   "created_time": "2024-01-08T23:04:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-05",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-6-02f33a593d7541f4a669ad43192f2aa1",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-6-02f33a593d7541f4a669ad43192f2aa1"
+  },
+  {
+   "object": "page",
+   "id": "6d803f26-96f1-4967-a7f9-cc943d817b6f",
+   "created_time": "2024-01-08T23:03:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-05",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Database Ethics Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Database Ethics Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Database-Ethics-Discussion-6d803f2696f14967a7f9cc943d817b6f",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Database-Ethics-Discussion-6d803f2696f14967a7f9cc943d817b6f"
+  },
+  {
+   "object": "page",
+   "id": "56da72e3-45f9-4aea-9ca0-f4c3276af77a",
+   "created_time": "2024-01-08T23:03:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-04-05",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 6",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 6",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-6-56da72e345f94aea9ca0f4c3276af77a",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-6-56da72e345f94aea9ca0f4c3276af77a"
+  },
+  {
+   "object": "page",
+   "id": "20d17fae-ce5e-4c89-b0fc-25b70d62a00f",
+   "created_time": "2024-01-08T23:03:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-22",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M5 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M5 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M5-Discussion-20d17faece5e4c89b0fc25b70d62a00f",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M5-Discussion-20d17faece5e4c89b0fc25b70d62a00f"
+  },
+  {
+   "object": "page",
+   "id": "c8190e40-1261-4ac1-a1ba-1ba514cffde7",
+   "created_time": "2024-01-08T23:03:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-22",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-3-c8190e4012614ac1a1ba1ba514cffde7",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-3-c8190e4012614ac1a1ba1ba514cffde7"
+  },
+  {
+   "object": "page",
+   "id": "b350d004-b924-48fc-9cea-5d9a34e606f2",
+   "created_time": "2024-01-08T23:03:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-22",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-5-b350d004b92448fc9cea5d9a34e606f2",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-5-b350d004b92448fc9cea5d9a34e606f2"
+  },
+  {
+   "object": "page",
+   "id": "bdf1aa03-ab3b-4c46-9c41-95377902da63",
+   "created_time": "2024-01-08T23:01:00.000Z",
+   "last_edited_time": "2024-01-08T23:05:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M4 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M4 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M4-Discussion-bdf1aa03ab3b4c469c4195377902da63",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M4-Discussion-bdf1aa03ab3b4c469c4195377902da63"
+  },
+  {
+   "object": "page",
+   "id": "74c49b74-9f3e-4214-aaec-1715c34bb674",
+   "created_time": "2024-01-08T23:01:00.000Z",
+   "last_edited_time": "2024-01-08T23:06:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-22",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 5",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 5",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-5-74c49b749f3e4214aaec1715c34bb674",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-5-74c49b749f3e4214aaec1715c34bb674"
+  },
+  {
+   "object": "page",
+   "id": "2dad1f54-52f6-4d91-987f-c1b73d5ba75f",
+   "created_time": "2024-01-08T23:01:00.000Z",
+   "last_edited_time": "2024-01-08T23:05:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-29",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Study for Midterm",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Study for Midterm",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Study-for-Midterm-2dad1f5452f64d91987fc1b73d5ba75f",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Study-for-Midterm-2dad1f5452f64d91987fc1b73d5ba75f"
+  },
+  {
+   "object": "page",
+   "id": "af5eba6a-0572-4b21-b04e-b782c8f77699",
+   "created_time": "2024-01-08T23:01:00.000Z",
+   "last_edited_time": "2024-01-08T23:05:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-4-af5eba6a05724b21b04eb782c8f77699",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-4-af5eba6a05724b21b04eb782c8f77699"
+  },
+  {
+   "object": "page",
+   "id": "c7c95660-37bc-4e28-a308-2ee80276a3f1",
+   "created_time": "2024-01-08T23:01:00.000Z",
+   "last_edited_time": "2024-01-08T23:05:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-03-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 4",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 4",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-4-c7c9566037bc4e28a3082ee80276a3f1",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-4-c7c9566037bc4e28a3082ee80276a3f1"
+  },
+  {
+   "object": "page",
+   "id": "fe54c3f3-7c19-4705-ba83-b3dad75104c6",
+   "created_time": "2024-01-08T23:00:00.000Z",
+   "last_edited_time": "2024-01-08T23:01:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-16",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-2-fe54c3f37c194705ba83b3dad75104c6",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-2-fe54c3f37c194705ba83b3dad75104c6"
+  },
+  {
+   "object": "page",
+   "id": "b52ddcb1-d4fc-4128-ad84-1b7127a169c2",
+   "created_time": "2024-01-08T23:00:00.000Z",
+   "last_edited_time": "2024-01-08T23:00:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-16",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-3-b52ddcb1d4fc4128ad841b7127a169c2",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-3-b52ddcb1d4fc4128ad841b7127a169c2"
+  },
+  {
+   "object": "page",
+   "id": "71b2806f-5458-43b0-ba1e-3775c7cf7a2b",
+   "created_time": "2024-01-08T22:59:00.000Z",
+   "last_edited_time": "2024-01-08T23:00:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": false
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-16",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 3",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 3",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-3-71b2806f545843b0ba1e3775c7cf7a2b",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-3-71b2806f545843b0ba1e3775c7cf7a2b"
+  },
+  {
+   "object": "page",
+   "id": "6019fc4a-2d1f-407d-82f9-9ff8b5e4f74f",
+   "created_time": "2024-01-08T22:59:00.000Z",
+   "last_edited_time": "2024-02-04T03:41:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-2-6019fc4a2d1f407d82f99ff8b5e4f74f",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-2-6019fc4a2d1f407d82f99ff8b5e4f74f"
+  },
+  {
+   "object": "page",
+   "id": "4e6a229a-ab77-495d-bfe1-84f85e54cd0b",
+   "created_time": "2024-01-08T22:59:00.000Z",
+   "last_edited_time": "2024-02-04T03:41:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Quiz 1 ",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Quiz 1 ",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Quiz-1-4e6a229aab77495dbfe184f85e54cd0b",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Quiz-1-4e6a229aab77495dbfe184f85e54cd0b"
+  },
+  {
+   "object": "page",
+   "id": "2447a098-7fe5-4d4b-b51e-f30ca455c315",
+   "created_time": "2024-01-08T22:58:00.000Z",
+   "last_edited_time": "2024-02-04T03:41:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "M2 Discussion",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "M2 Discussion",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/M2-Discussion-2447a0987fe54d4bb51ef30ca455c315",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/M2-Discussion-2447a0987fe54d4bb51ef30ca455c315"
+  },
+  {
+   "object": "page",
+   "id": "ed352a29-c580-4062-884b-d82913116277",
+   "created_time": "2024-01-08T22:56:00.000Z",
+   "last_edited_time": "2024-02-09T00:47:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-02-02",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 2",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 2",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-2-ed352a29c5804062884bd82913116277",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-2-ed352a29c5804062884bd82913116277"
+  },
+  {
+   "object": "page",
+   "id": "a1ac3fb2-9716-4b79-b536-49e1027c99fd",
+   "created_time": "2024-01-08T22:51:00.000Z",
+   "last_edited_time": "2024-01-19T01:40:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lab 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Lab 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Lab-1-a1ac3fb297164b79b53649e1027c99fd",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Lab-1-a1ac3fb297164b79b53649e1027c99fd"
+  },
+  {
+   "object": "page",
+   "id": "43c9a761-4b4b-493a-89fc-8e16c13313aa",
+   "created_time": "2024-01-08T22:48:00.000Z",
+   "last_edited_time": "2024-01-19T01:40:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Discussion Questions",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Discussion Questions",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Discussion-Questions-43c9a7614b4b493a89fc8e16c13313aa",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Discussion-Questions-43c9a7614b4b493a89fc8e16c13313aa"
+  },
+  {
+   "object": "page",
+   "id": "49ebe17e-0809-4b57-8823-18a860a1f465",
+   "created_time": "2024-01-08T22:48:00.000Z",
+   "last_edited_time": "2024-01-19T01:40:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Assignment 1",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Assignment 1",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Assignment-1-49ebe17e08094b57882318a860a1f465",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Assignment-1-49ebe17e08094b57882318a860a1f465"
+  },
+  {
+   "object": "page",
+   "id": "b44c0518-95c3-426a-a50d-594af1dfc3cb",
+   "created_time": "2024-01-08T22:48:00.000Z",
+   "last_edited_time": "2024-01-08T23:09:00.000Z",
+   "created_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "last_edited_by": {
+    "object": "user",
+    "id": "439fbb1e-0f42-4399-a87f-754a73fd94d1"
+   },
+   "cover": null,
+   "icon": null,
+   "parent": {
+    "type": "database_id",
+    "database_id": "b1f43304-8727-4700-8fe2-cd3325fdb967"
+   },
+   "archived": false,
+   "properties": {
+    "Status": {
+     "id": "XfEt",
+     "type": "checkbox",
+     "checkbox": true
+    },
+    "Class": {
+     "id": "ixc%3A",
+     "type": "select",
+     "select": {
+      "id": "fnks",
+      "name": "Database",
+      "color": "green"
+     }
+    },
+    "Due Date": {
+     "id": "p%5Eis",
+     "type": "date",
+     "date": {
+      "start": "2024-01-19",
+      "end": null,
+      "time_zone": null
+     }
+    },
+    "Assignment": {
+     "id": "title",
+     "type": "title",
+     "title": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Academic Integrity Quiz",
+        "link": null
+       },
+       "annotations": {
+        "bold": false,
+        "italic": false,
+        "strikethrough": false,
+        "underline": false,
+        "code": false,
+        "color": "default"
+       },
+       "plain_text": "Academic Integrity Quiz",
+       "href": null
+      }
+     ]
+    }
+   },
+   "url": "https://www.notion.so/Academic-Integrity-Quiz-b44c051895c3426aa50d594af1dfc3cb",
+   "public_url": "https://mint-lillipilli-8ac.notion.site/Academic-Integrity-Quiz-b44c051895c3426aa50d594af1dfc3cb"
+  }
+ ],
+ "next_cursor": null,
+ "has_more": false,
+ "type": "page_or_database",
+ "page_or_database": {},
+ "request_id": "5f2eeafe-ebe9-471e-9a20-76f3456f977c"
+}
